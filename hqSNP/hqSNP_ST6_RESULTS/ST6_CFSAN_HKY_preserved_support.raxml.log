@@ -1,0 +1,34 @@
+
+RAxML-NG v. 1.2.2 released on 11.04.2024 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth, Julia Haag, Anastasis Togkousidis.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Core(TM) i7-14700K, 20 cores, 94 GB RAM (allocated: 14 physical cores)
+
+RAxML-NG was called at 27-Nov-2025 20:01:10 as follows:
+
+raxml-ng --support --tree ST6_CFSAN_HKY_preserved.raxml.bestTree --bs-trees ST6_CFSAN_HKY_preserved.raxml.bootstraps --prefix ST6_CFSAN_HKY_preserved_support
+
+Analysis options:
+  run mode: Compute bipartition support (Felsenstein Bootstrap)
+  start tree(s): user
+  random seed: 1764270070
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+Reading reference tree from file: ST6_CFSAN_HKY_preserved.raxml.bestTree
+Reference tree size: 36
+
+Reading bootstrap trees from file: ST6_CFSAN_HKY_preserved.raxml.bootstraps
+Loaded 1000 trees with 36 taxa.
+
+Best ML tree with Felsenstein bootstrap (FBP) support values saved to: /home/lab-micro-10/Proyectos/PlantaSucia/CFSAN/SRA_ST6/ST6_CFSAN_HKY_preserved_support.raxml.support
+
+Execution log saved to: /home/lab-micro-10/Proyectos/PlantaSucia/CFSAN/SRA_ST6/ST6_CFSAN_HKY_preserved_support.raxml.log
+
+Analysis started: 27-Nov-2025 20:01:10 / finished: 27-Nov-2025 20:01:10
+
+Elapsed time: 0.028 seconds
+
