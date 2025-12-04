@@ -1,0 +1,101 @@
+Sample ID,Serotype,Sequence Type (ST),Clonal_complex ,Lineage,cgMLST1748 profile,Mismatches,Loci matched,Name mobile element,Type mobile element,Processing_Plant,Zone,Sampling_Point
+FF2E-19-1,1/2a; 3a,155,CC155,II,29464,33,1715/1748 (98.1%),n.a.,n.a.,Fruit,3,Cart weight
+FF2E-26-7,1/2a; 3a,155,CC155,II,29464,33,1736/1748 (99.3%),ISLmo1,insertion sequence,Fruit,1,White box for product
+FF2E-30-9,1/2a; 3a,155,CC155,II,29464,41,1707/1748 (97.7%),ISLmo1,insertion sequence,Fruit,3,Floor cover
+FF2E-32-2,1/2a; 3a,155,CC155,II,29464,12,1736/1748 (99.3%),ISLmo1,insertion sequence,Fruit,1,Cutting board
+FF2E-34-3,1/2a; 3a,155,CC155,II,29464,6,1742/1748 (99.7%),ISLmo1,insertion sequence,Fruit,2,Waste conveyor belt
+FF2E-3-4,1/2a; 3a,155,CC155,II,29464,9,1739/1748 (99.5%),n.a.,n.a.,Fruit,2,Waste conveyor belt roller
+FF2E-35-5,1/2a; 3a,155,CC155,II,29464,11,1737/1748 (99.4%),ISLmo1,insertion sequence,Fruit,2,Waste conveyor belt roller
+FF2E-37-6,1/2a; 3a,155,CC155,II,29464,21,1727/1748 (98.8%),ISLmo1,insertion sequence,Fruit,3,Stairs to the skewer area
+FF2E-44-1,1/2a; 3a,155,CC155,II,29464,8,1740/1748 (99.5%),ISLmo1,insertion sequence,Fruit,3,Drain dipping
+FF2E-45-4,1/2a; 3a,155,CC155,II,29464,6,1742/1748 (99.7%),ISLmo1,insertion sequence,Fruit,3,Floor cover apple area
+FF2E-4-6,1/2a; 3a,155,CC155,II,29464,32,1716/1748 (98.2%),ISLmo1,insertion sequence,Fruit,3,Drain near waste area
+FF2E-47-3,1/2a; 3a,155,CC155,II,29464,16,1732/1748 (99.1%),ISLmo1,insertion sequence,Fruit,2,Weigher panel rubber junction
+FF2E-49-4,1/2a; 3a,155,CC155,II,29464,17,1731/1748 (99.0%),ISLmo1,insertion sequence,Fruit,1,Final carrot strips hopper
+FF2E-53-5,1/2a; 3a,155,CC155,II,29464,8,1740/1748 (99.5%),ISLmo1,insertion sequence,Fruit,1,Cup packaging machine
+FF2E-54-8,1/2a; 3a,155,CC155,II,29464,10,1738/1748 (99.4%),ISLmo1,insertion sequence,Fruit,1,Conveyor belt of sachet packing machine
+FF2E-58-1,1/2a; 3a,155,CC155,II,29464,12,1736/1748 (99.3%),n.a.,n.a.,Fruit,3,Strip drain
+FF2R-18-1,1/2a; 3a,155,CC155,II,29464,11,1737/1748 (99.4%),ISLmo1,insertion sequence,Fruit,1,Knife
+FF2R-48-1,1/2a; 3a,155,CC155,II,29464,12,1736/1748 (99.3%),ISLmo1,insertion sequence,Fruit,1,Vibratory belt plate
+FF2R-61-1,1/2a; 3a,155,CC155,II,29464,8,1740/1748 (99.5%),ISLmo1,insertion sequence,Fruit,1,Spinning table/Rotary table
+FF5E-19-5,4b; 4d; 4e,6,CC6,I,17837/33032,24/24,1724/1748 (98.6%),n.a.,n.a.,Fruit,3,Cart weight
+FF5E-28-7,4b; 4d; 4e,6,CC6,I,17837/33032,16/16,1732/1748 (99.1%),n.a.,n.a.,Fruit,3,Cleaning tool box
+FF5E-30-1,1/2a; 3a,155,CC155,II,29464,32,1716/1748 (98.2%),n.a.,n.a.,Fruit,3,Floor cover
+FF5E-33-4,1/2a; 3a,155,CC155,II,29464,14,1734/1748 (99.2%),n.a.,n.a.,Fruit,1,Waste hole to conveyor belt
+FF5E-37-3,1/2a; 3a,155,CC155,II,29464,6,1742/1748 (99.7%),ISLmo1,insertion sequence,Fruit,3,Stairs to the skewer area
+FF5E-44-5,4b; 4d; 4e,6,CC6,I,17837,18,1730/1748 (99.0%),n.a.,n.a.,Fruit,3,Drain dipping
+FF5E-45-10,1/2a; 3a,155,CC155,II,29464,22,1726/1748 (98.7%),ISLmo1,insertion sequence,Fruit,3,Floor cover apple area
+FF5E-58-7,1/2a; 3a,155,CC155,II,29464,21,1727/1748 (98.8%),ISLmo1,insertion sequence,Fruit,3,Strip drain
+FF8E-28-3,1/2a; 3a,155,CC155,II,29464,5,1743/1748 (99.7%),n.a.,n.a.,Fruit,3,Cleaning tool box
+FF8E-37-5,1/2a; 3a,155,CC155,II,29464,18,1730/1748 (99.0%),ISLmo1,insertion sequence,Fruit,3,Stairs to the skewer area
+FF8E-38-6,1/2a; 3a,155,CC155,II,29464,23,1725/1748 (98.7%),ISLmo1,insertion sequence,Fruit,3,Drain waste cover
+FF8E-44-2,1/2a; 3a,155,CC155,II,29464,6,1745/1748 (99.7%),n.a.,n.a.,Fruit,3,Drain dipping
+FF8E-48-10,1/2a; 3a,155,CC155,II,29464,16,1732/1748 (99.1%),ISLmo1,insertion sequence,Fruit,1,Vibratory belt plate
+FF8E-58-6,4b; 4d; 4e,6,CC6,I,17837/33032,17/17,1731/1748 (99.0%),n.a.,n.a.,Fruit,3,Strip drain
+FF8E-5-8,1/2a; 3a,155,CC155,II,29464,10,1738/1748 (99.4%),ISLmo1,insertion sequence,Fruit,3,Floor near apple wash station
+FI1E11-1,1/2a; 3a,155,CC155,II,29464,95,1653/1748 (94.6%),ISLmo1,insertion sequence,Iceberg,3,Floor crack
+FI1E12-1,1/2a; 3a,155,CC155,II,29464,42,1706/1748 (97.6%),ISLmo1,insertion sequence,Iceberg,3,Drain near to elevator
+FI1E15-1,1/2a; 3a,155,CC155,II,29464,17,1731/1748 (99.0%),ISLmo1,insertion sequence,Iceberg,2,Waste product conveyor belt
+FI1E18-1,1/2a; 3a,155,CC155,II,29464,30,1718/1748 (99.3%),ISLmo1,insertion sequence,Iceberg,3,Water retained on floor
+FI1E2-1,1/2a; 3a,155,CC155,II,29464,16,1732/1748 (99.1%),ISLmo1,insertion sequence,Iceberg,3,White room boot washer
+FI1E29-1,1/2a; 3a,155,CC155,II,29464,25,1723/1748 (98.6%),ISLmo1,insertion sequence,Iceberg,3,'Forklift''s wheel'
+FI1E31-1,1/2a; 3a,155,CC155,II,29464,6,1742/1748 (99.7%),n.a.,n.a.,Iceberg,3,Floor near elevator
+FI1E64-1,1/2a; 3a,155,CC155,II,29464,17,1731/1748 (99.0%),ISLmo1,insertion sequence,Iceberg,3,Stairs to weight filler
+FI1E67-1,1/2a; 3a,155,CC155,II,29464,10,1738/1748 (99.4%),ISLmo1,insertion sequence,Iceberg,3,Cart wheels
+FI1E70-1,1/2a; 3a,155,CC155,II,29464,18,1730/1748 (99.0%),ISLmo1,insertion sequence,Iceberg,3,'Floor''s holes near pillar'
+FI1E76-1,1/2a; 3a,155,CC155,II,29464,17,1731/1748 (99.0%),ISLmo1; ISTeha2; ISS1W; cn_6046_ISTeha2*; cn_3774_ISS1W*,insertion sequence; composite transposon*,Iceberg,3,Pillar junction
+FI1E80-1,1/2a; 3a,155,CC155,II,29464,19,1729/1748 (98.9%),ISLmo1,insertion sequence,Iceberg,3,Drain
+FI1E82-1,4b; 4d; 4e,6,CC6,I,17837/33032,14/14,1734/1748 (99.2%),n.a.,n.a.,Iceberg,3,Box holder wheels
+FI4E-11-3,1/2a; 3a,155,CC155,II,29464,36,1712/1748 (97.9%),ISLmo1,insertion sequence,Iceberg,3,Floor crack
+FI4E-16-9,1/2a; 3a,155,CC155,II,29464,80,1668/1748 (95.4%),n.a.,n.a.,Iceberg,2,Conveyor belt button
+FI4E-17-1,1/2a; 3a,155,CC155,II,29464,40,1708/1748 (97.7%),n.a.,n.a.,Iceberg,2,Waste shovel
+FI4E-20-10,1/2a; 3a,155,CC155,II,29464,38,1710/1748 (97.8%),n.a.,n.a.,Iceberg,1,'Slicer''s blades'
+FI4E-20-1,1/2a; 3a,155,CC155,II,29464,28,1720/1748 (98.4%),ISLmo1,insertion sequence,Iceberg,1,Slicer
+FI4E-20-3,1/2a; 3a,155,CC155,II,29464,38,1710/1748 (97.8%),n.a.,n.a.,Iceberg,1,Slicer
+FI4E-20-5,1/2a; 3a,155,CC155,II,29464,12,1736/1748 (99.3%),ISLmo1,insertion sequence,Iceberg,1,Slicer
+FI4E-20-7,1/2a; 3a,155,CC155,II,29464,8,1740/1748 (99.5%),ISLmo1,insertion sequence,Iceberg,1,Slicer
+FI4E-20-9,1/2a; 3a,155,CC155,II,29464,12,1736/1748 (99.3%),ISLmo1,insertion sequence,Iceberg,1,Slicer
+FI4E-21-1,1/2a; 3a,155,CC155,II,29464,13,1735/1748 (99.3%),ISLmo1,insertion sequence,Iceberg,1,Slicer
+FI4E-22-6,1/2a; 3a,155,CC155,II,29464,20,1728/1748 (98.9%),ISLmo1,insertion sequence,Iceberg,2,Frame under slicer
+FI4E-23-4,1/2a; 3a,155,CC155,II,29464,8,1740/1748 (99.5%),n.a.,n.a.,Iceberg,3,Crack in the floor under the slicer
+FI4E-24-6,1/2a; 3a,155,CC155,II,29464,13,1735/1748 (99.3%),ISLmo1,insertion sequence,Iceberg,1,First washing station
+FI4E-2-4,1/2a; 3a,155,CC155,II,29464,17,1731/1748 (99.0%),ISLmo1,insertion sequence,Iceberg,3,White room entrance bootwasher
+FI4E-25-4,1/2a; 3a,155,CC155,II,29464,37,1711/1748 (97.9%),n.a.,n.a.,Iceberg,1,First washing station filter
+FI4E-26-3,1/2a; 3a,155,CC155,II,29464,23,1725/1748 (98.7%),ISLmo1,insertion sequence,Iceberg,1,First washing station outlet conveyor  belt
+FI4E-27-2,Non typeable,155,CC155,II,29464,14,1734/1748 (99.2%),ISLmo1,insertion sequence,Iceberg,2,Roller of the outlet conveyor belt of the first washing station
+FI4E-28-1,1/2a; 3a,155,CC155,II,29464,12,1736/1748 (99.3%),ISLmo1,insertion sequence,Iceberg,2,Water outlet pipes from first washing station
+FI4E-30-7,1/2a; 3a,155,CC155,II,29464,22,1726/1748 (98.7%),ISLmo1,insertion sequence,Iceberg,3,'Forklift''s fork'
+FI4E-31-5,1/2a; 3a,155,CC155,II,29464,11,1737/1748 (99.4%),n.a.,n.a.,Iceberg,3,Floor near elevator
+FI4E-34-2,1/2a; 3a,155,CC155,II,29464,38,1710/1748 (97.8%),n.a.,n.a.,Iceberg,3,Instrument box handle
+FI4E-41-1,1/2a; 3a,155,CC155,II,29464,19,1729/1748 (98.9%),ISLmo1,insertion sequence,Iceberg,2,Metallic conveyor belt roller
+FI4E-54-5,1/2a; 3a,155,CC155,II,29464,166,1582/1748 (90.5%),ISLmo1,insertion sequence,Iceberg,3,Drain before vibratory belt
+FI4E-59-6,1/2a; 3a,155,CC155,II,29464,34,1714/1748 (98.1%),n.a.,n.a.,Iceberg,2,Floor under weigher belt
+FI4E-62-3,1/2a; 3a,155,CC155,II,29464,18,1730/1748 (99.0%),ISLmo1,insertion sequence,Iceberg,1,Weigher plates
+FI4E-69-10,4b; 4d; 4e,6,CC6,I,17837/33032,29/29,1719/1748 (98.3%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4E-69-1,4b; 4d; 4e,6,CC6,I,17837,25,1723/1748 (98.6%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4E-69-2,4b; 4d; 4e,6,CC6,I,17837/33032,44/44,1704/1748 (97.5%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4E-69-4,4b; 4d; 4e,6,CC6,I,17837/33032,25/25,1723/1748 (98.6%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4E-69-6,4b; 4d; 4e,6,CC6,I,17837/33032,26/26,1722/1748 (98.5%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4E-69-8,Non typeable,6,CC6,I,17837/33032,47/47,1701/1748 (97.3%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4E-70-4,Non typeable,Unknown,Unknown,Unknown,29464,39,1709/1748 (97.8%),n.a.,n.a.,Iceberg,3,'Floor''s holes near pillar'
+FI4E-79-7,1/2a; 3a,155,CC155,II,29464,22,1726/1748 (98.7%),ISLmo1,insertion sequence,Iceberg,1,Spinning table
+FI4E-8-5,1/2a; 3a,155,CC155,II,29464,17,1731/1748 (99.0%),ISLmo1,insertion sequence,Iceberg,2,Waste conveyor belt roller
+FI4E-I1-5,1/2a; 3a,155,CC155,II,29464,33,1715/1748 (98.1%),ISLmo1,insertion sequence,Iceberg,P,Final product
+FI4R-1-17,1/2a; 3a,155,CC155,II,29464,23,1725/1748 (98.7%),ISLmo1,insertion sequence,Iceberg,3,Boot washer
+FI4R-20-1,1/2a; 3a,155,CC155,II,29464,8,1740/1748 (99.5%),ISLmo1,insertion sequence,Iceberg,1,'Slicer''s blades'
+FI4R-20-2,1/2a; 3a,155,CC155,II,29464,8,1740/1748 (99.5%),ISLmo1,insertion sequence,Iceberg,1,'Slicer''s blades'
+FI4R-69-13,4b; 4d; 4e,6,CC6,I,17837/33032/28409,26/26/26,1722/1748 (98.5%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4R-69-17,4b; 4d; 4e,6,CC6,I,17837/33032,29/29,1719/1748 (98.3%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4R-69-4,4b; 4d; 4e,6,CC6,I,17837/33032,19/19,1729/1748 (98.9%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI4R-69-9,4b; 4d; 4e,6,CC6,I,17837,33,1715/1748 (98.1%),n.a.,n.a.,Iceberg,3,Cart wheels
+FI7E-11-5,4b; 4d; 4e,6,CC6,I,17837/33032,13/13,1735/1748 (99.3%),n.a.,n.a.,Iceberg,3,Floor crack
+FI7E-12-3,4b; 4d; 4e,6,CC6,I,17837/33032,16/16,1732/1748 (99.1%),n.a.,n.a.,Iceberg,3,Drain near to elevator
+FI7E-2-10,1/2a; 3a,155,Unknown,Unknown,29464,8,1740/1748 (99.5%),ISLmo1,insertion sequence,Iceberg,3,White room boot washer
+FI7E-23-1,1/2a; 3a,155,CC155,II,29464,11,1737/1748 (99.4%),n.a.,n.a.,Iceberg,3,Crack in the floor under the slicer
+FI7E-29-4,1/2a; 3a,155,CC155,II,29464,33,1715/1748 (98.1%),n.a.,n.a.,Iceberg,3,'Forklift''s wheel'
+FI7E-30-8,1/2a; 3a,155,CC155,II,29464,31,1717/1748 (98.2%),ISLmo1,insertion sequence,Iceberg,3,'Forklift''s fork'
+FI7E-31-3,4b; 4d; 4e,6,CC6,I,17837,24,1724/1748 (98.6%),n.a.,n.a.,Iceberg,3,Floor near elevator
+FI7E-6-4,1/2a; 3a,155,CC155,II,29464,5,1743/1748 (99.7%),n.a.,n.a.,Iceberg,2,Final product conveyor belt roller
+FI7E-70-4,1/2a; 3a,155,CC155,II,29464,19,1729/1748 (98.9%),ISLmo1,insertion sequence,Iceberg,3,'Floor''s holes near pillar'
+FI7E-77-3,1/2a; 3a,155,CC155,II,29464,10,1738/1748 (99.4%),ISLmo1,insertion sequence,Iceberg,3,Floor in the packaging area
+FI7E-80-9,4b; 4d; 4e,6,CC6,I,17837/33032,17/17,1731/1748 (99.0%),n.a.,n.a.,Iceberg,3,Drain
